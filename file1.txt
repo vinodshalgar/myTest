@@ -2,3 +2,8 @@ first file made changes in remote
 
 
 i have made changes in dev branch
+
+checking git reset
+
+
+now this is my local changes
